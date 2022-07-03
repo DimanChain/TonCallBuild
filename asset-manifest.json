@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TonCallBuild/static/css/main.2236e2e7.css",
-    "main.js": "/TonCallBuild/static/js/main.53259a13.js",
+    "main.js": "/TonCallBuild/static/js/main.03d08572.js",
     "static/js/787.d9a16447.chunk.js": "/TonCallBuild/static/js/787.d9a16447.chunk.js",
     "static/media/ton.mp4": "/TonCallBuild/static/media/ton.b7c9424e2c6e77a00a0b.mp4",
     "static/media/voice.mp3": "/TonCallBuild/static/media/voice.3635195aa666483ca309.mp3",
@@ -27,11 +27,11 @@
     "static/media/copyright.svg": "/TonCallBuild/static/media/copyright.789a16cd7244fed3085894babd89ad19.svg",
     "index.html": "/TonCallBuild/index.html",
     "main.2236e2e7.css.map": "/TonCallBuild/static/css/main.2236e2e7.css.map",
-    "main.53259a13.js.map": "/TonCallBuild/static/js/main.53259a13.js.map",
+    "main.03d08572.js.map": "/TonCallBuild/static/js/main.03d08572.js.map",
     "787.d9a16447.chunk.js.map": "/TonCallBuild/static/js/787.d9a16447.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2236e2e7.css",
-    "static/js/main.53259a13.js"
+    "static/js/main.03d08572.js"
   ]
 }
