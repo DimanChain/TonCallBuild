@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/TonCallBuild/static/css/main.2236e2e7.css",
+    "main.js": "/TonCallBuild/static/js/main.53259a13.js",
+    "static/js/787.d9a16447.chunk.js": "/TonCallBuild/static/js/787.d9a16447.chunk.js",
+    "static/media/ton.mp4": "/TonCallBuild/static/media/ton.b7c9424e2c6e77a00a0b.mp4",
+    "static/media/voice.mp3": "/TonCallBuild/static/media/voice.3635195aa666483ca309.mp3",
+    "static/media/profile-author.jpg": "/TonCallBuild/static/media/profile-author.2688819aafdd38fd9491.jpg",
+    "static/media/Speech.jpg": "/TonCallBuild/static/media/Speech.5da57afbb296c78344f7.jpg",
+    "static/media/Concert1.jpg": "/TonCallBuild/static/media/Concert1.6213aacd5de30c3c17b6.jpg",
+    "static/media/client-request.gif": "/TonCallBuild/static/media/client-request.3fe27312207d07e81c5e.gif",
+    "static/media/waiting-server.gif": "/TonCallBuild/static/media/waiting-server.6f56074c1ff142a1c74e.gif",
+    "static/media/trading.jpg": "/TonCallBuild/static/media/trading.6f59864e7c7639a279a0.jpg",
+    "static/media/Webinar.jpg": "/TonCallBuild/static/media/Webinar.5481bc739c326866e4c1.jpg",
+    "static/media/ClassRoom.jpg": "/TonCallBuild/static/media/ClassRoom.77b832c351b5dd860e25.jpg",
+    "static/media/Veterinarian.jpg": "/TonCallBuild/static/media/Veterinarian.651fd4bc2e9047625a60.jpg",
+    "static/media/Cinematic.jpg": "/TonCallBuild/static/media/Cinematic.0e6147398be073d5bb66.jpg",
+    "static/media/Psychology.jpg": "/TonCallBuild/static/media/Psychology.600f8c7da320f02058ac.jpg",
+    "static/media/Health.jpg": "/TonCallBuild/static/media/Health.07bde9e9c561cafac817.jpg",
+    "static/media/profile5.jpg": "/TonCallBuild/static/media/profile5.16a7438e3cad389f64de.jpg",
+    "static/media/profile4.jpg": "/TonCallBuild/static/media/profile4.62d347b763c9663e8f81.jpg",
+    "static/media/profile2.jpg": "/TonCallBuild/static/media/profile2.b75536f98968417193d2.jpg",
+    "static/media/profile3.jpg": "/TonCallBuild/static/media/profile3.e313eda4f55f5450a30a.jpg",
+    "static/media/profile1.jpg": "/TonCallBuild/static/media/profile1.79c6396cc65c23be3074.jpg",
+    "static/media/github.svg": "/TonCallBuild/static/media/github.d958b4ac2c3c103a773321e74ca0304a.svg",
+    "static/media/figma.svg": "/TonCallBuild/static/media/figma.9df9333ceb4bbc4d61044aa3fd639237.svg",
+    "static/media/copyright.svg": "/TonCallBuild/static/media/copyright.789a16cd7244fed3085894babd89ad19.svg",
+    "index.html": "/TonCallBuild/index.html",
+    "main.2236e2e7.css.map": "/TonCallBuild/static/css/main.2236e2e7.css.map",
+    "main.53259a13.js.map": "/TonCallBuild/static/js/main.53259a13.js.map",
+    "787.d9a16447.chunk.js.map": "/TonCallBuild/static/js/787.d9a16447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2236e2e7.css",
+    "static/js/main.53259a13.js"
+  ]
+}
